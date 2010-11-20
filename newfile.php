@@ -11,7 +11,9 @@
     <body>
     <p>This page uses frames. The current browser you are using does not support frames.</p>
     <?php
-		echo("hola");
+		echo("hola2");
+		echo("Adi—s");
+		
 	?>
     </body>
     </noframes>
